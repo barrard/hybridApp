@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/barrard/hybridApp/issues"
   },
-  "homepage": "https://github.com/barrard/hybridApp#readme"
+  "homepage": "https://github.com/barrard/hybridApp#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
