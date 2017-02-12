@@ -18,6 +18,7 @@
   "homepage": "https://github.com/barrard/hybridApp#readme",
   "dependencies": {
     "express": "^4.14.1",
-    "mongodb": "^2.2.22"
+    "mongodb": "^2.2.22",
+    "socket.io": "^1.7.2"
   }
 }
